@@ -1,0 +1,6 @@
+#inheritance methods
+
+#polymorphism
+
+#rectangle
+

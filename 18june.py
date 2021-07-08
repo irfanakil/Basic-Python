@@ -1,0 +1,3 @@
+#constructive method
+
+s=Shape()
